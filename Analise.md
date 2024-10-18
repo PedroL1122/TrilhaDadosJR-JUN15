@@ -45,7 +45,7 @@ Gráfico de Barras das Vendas: Visualização da quantidade de vendas por curso 
 # Resultados
 
 # Receita Total
-A receita total gerada pelas vendas dos cursos foi de R$ 17.000,50.
+A receita total gerada pelas vendas dos cursos foi de: R$ 32735.10
 
 # Curso Mais Vendido
 
