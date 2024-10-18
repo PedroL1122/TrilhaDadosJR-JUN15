@@ -40,9 +40,23 @@ Receita ao Longo do Tempo: Uso do resample para agrupar a receita diária e gera
 
 Gráfico de Barras das Vendas: Visualização da quantidade de vendas por curso usando o barplot do Seaborn.
 
-# Exportação dos Resultados
+# Resultados
 
-Os resultados da análise são exportados para um arquivo CSV chamado vendas_cursos.csv. Este arquivo contém todas as informações de vendas, incluindo a receita calculada.
+# Receita Total
+A receita total gerada pelas vendas dos cursos foi de R$ 17.000,50.
+
+#Curso Mais Vendido
+
+O curso mais vendido foi "Introdução à Programação em Python", destacando-se pela alta demanda.
+
+# Tendência de Receita ao Longo do Tempo
+
+A análise revelou picos de receita em dias específicos, sugerindo um aumento nas vendas em períodos de promoção ou campanhas.
+
+# Distribuição de Vendas por Curso
+
+A maioria das vendas se concentrou nos cursos de programação e desenvolvimento, especialmente os de Python e Desenvolvimento Web.
+
 
 # Visualizações Geradas
 As visualizações incluem:
