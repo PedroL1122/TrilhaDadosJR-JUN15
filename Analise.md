@@ -45,7 +45,7 @@ Gráfico de Barras das Vendas: Visualização da quantidade de vendas por curso 
 # Receita Total
 A receita total gerada pelas vendas dos cursos foi de R$ 17.000,50.
 
-#Curso Mais Vendido
+# Curso Mais Vendido
 
 O curso mais vendido foi "Introdução à Programação em Python", destacando-se pela alta demanda.
 
